@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Maksym_Trokhymets_IS_93
 {
-    public class TriangleFigureFactory : IFigureFactory
+    public class FigureFactory : IFigureFactory
     {
         public Triangle GetTriangle()
         {

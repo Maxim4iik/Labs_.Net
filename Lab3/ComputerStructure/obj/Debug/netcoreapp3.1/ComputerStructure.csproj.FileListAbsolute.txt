@@ -1,0 +1,19 @@
+/Users/illiamalanchuk3228/Downloads/ComputerStructure/bin/Debug/netcoreapp3.1/ComputerStructure.deps.json
+/Users/illiamalanchuk3228/Downloads/ComputerStructure/bin/Debug/netcoreapp3.1/ComputerStructure.dll
+/Users/illiamalanchuk3228/Downloads/ComputerStructure/bin/Debug/netcoreapp3.1/ComputerStructure.pdb
+/Users/illiamalanchuk3228/Downloads/ComputerStructure/obj/Debug/netcoreapp3.1/ComputerStructure.csprojAssemblyReference.cache
+/Users/illiamalanchuk3228/Downloads/ComputerStructure/obj/Debug/netcoreapp3.1/ComputerStructure.AssemblyInfoInputs.cache
+/Users/illiamalanchuk3228/Downloads/ComputerStructure/obj/Debug/netcoreapp3.1/ComputerStructure.AssemblyInfo.cs
+/Users/illiamalanchuk3228/Downloads/ComputerStructure/obj/Debug/netcoreapp3.1/ComputerStructure.csproj.CoreCompileInputs.cache
+/Users/illiamalanchuk3228/Downloads/ComputerStructure/obj/Debug/netcoreapp3.1/ComputerStructure.dll
+/Users/illiamalanchuk3228/Downloads/ComputerStructure/obj/Debug/netcoreapp3.1/ComputerStructure.pdb
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab3/ComputerStructure/bin/Debug/netcoreapp3.1/ComputerStructure.deps.json
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab3/ComputerStructure/bin/Debug/netcoreapp3.1/ComputerStructure.dll
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab3/ComputerStructure/bin/Debug/netcoreapp3.1/ComputerStructure.pdb
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab3/ComputerStructure/obj/Debug/netcoreapp3.1/ComputerStructure.csprojAssemblyReference.cache
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab3/ComputerStructure/obj/Debug/netcoreapp3.1/ComputerStructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab3/ComputerStructure/obj/Debug/netcoreapp3.1/ComputerStructure.AssemblyInfoInputs.cache
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab3/ComputerStructure/obj/Debug/netcoreapp3.1/ComputerStructure.AssemblyInfo.cs
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab3/ComputerStructure/obj/Debug/netcoreapp3.1/ComputerStructure.csproj.CoreCompileInputs.cache
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab3/ComputerStructure/obj/Debug/netcoreapp3.1/ComputerStructure.dll
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab3/ComputerStructure/obj/Debug/netcoreapp3.1/ComputerStructure.pdb

@@ -1,0 +1,26 @@
+C:/Users/matil/source/repos/Laba5/Laba5/bin/Debug/netcoreapp3.1/Laba5.exe
+C:/Users/matil/source/repos/Laba5/Laba5/bin/Debug/netcoreapp3.1/Laba5.deps.json
+C:/Users/matil/source/repos/Laba5/Laba5/bin/Debug/netcoreapp3.1/Laba5.runtimeconfig.json
+C:/Users/matil/source/repos/Laba5/Laba5/bin/Debug/netcoreapp3.1/Laba5.runtimeconfig.dev.json
+C:/Users/matil/source/repos/Laba5/Laba5/bin/Debug/netcoreapp3.1/Laba5.dll
+C:/Users/matil/source/repos/Laba5/Laba5/bin/Debug/netcoreapp3.1/Laba5.pdb
+C:/Users/matil/source/repos/Laba5/Laba5/obj/Debug/netcoreapp3.1/Laba5.csprojAssemblyReference.cache
+C:/Users/matil/source/repos/Laba5/Laba5/obj/Debug/netcoreapp3.1/Laba5.AssemblyInfoInputs.cache
+C:/Users/matil/source/repos/Laba5/Laba5/obj/Debug/netcoreapp3.1/Laba5.AssemblyInfo.cs
+C:/Users/matil/source/repos/Laba5/Laba5/obj/Debug/netcoreapp3.1/Laba5.csproj.CoreCompileInputs.cache
+C:/Users/matil/source/repos/Laba5/Laba5/obj/Debug/netcoreapp3.1/Laba5.dll
+C:/Users/matil/source/repos/Laba5/Laba5/obj/Debug/netcoreapp3.1/Laba5.pdb
+C:/Users/matil/source/repos/Laba5/Laba5/obj/Debug/netcoreapp3.1/Laba5.genruntimeconfig.cache
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab5/Laba5/Laba5/bin/Debug/netcoreapp3.1/Laba5.deps.json
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab5/Laba5/Laba5/bin/Debug/netcoreapp3.1/Laba5.runtimeconfig.json
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab5/Laba5/Laba5/bin/Debug/netcoreapp3.1/Laba5.runtimeconfig.dev.json
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab5/Laba5/Laba5/bin/Debug/netcoreapp3.1/Laba5.dll
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab5/Laba5/Laba5/bin/Debug/netcoreapp3.1/Laba5.pdb
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab5/Laba5/Laba5/obj/Debug/netcoreapp3.1/Laba5.csprojAssemblyReference.cache
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab5/Laba5/Laba5/obj/Debug/netcoreapp3.1/Laba5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab5/Laba5/Laba5/obj/Debug/netcoreapp3.1/Laba5.AssemblyInfoInputs.cache
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab5/Laba5/Laba5/obj/Debug/netcoreapp3.1/Laba5.AssemblyInfo.cs
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab5/Laba5/Laba5/obj/Debug/netcoreapp3.1/Laba5.csproj.CoreCompileInputs.cache
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab5/Laba5/Laba5/obj/Debug/netcoreapp3.1/Laba5.dll
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab5/Laba5/Laba5/obj/Debug/netcoreapp3.1/Laba5.pdb
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab5/Laba5/Laba5/obj/Debug/netcoreapp3.1/Laba5.genruntimeconfig.cache

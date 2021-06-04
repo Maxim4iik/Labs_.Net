@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<vehicleFleets>
+  <vehicleFleet>
+    <name>Small Feet</name>
+    <address>xxx</address>
+    <areaOfCarsLocation>160</areaOfCarsLocation>
+    <code>123A</code>
+  </vehicleFleet>
+  <vehicleFleet>
+    <name>Middle Feet</name>
+    <address>xxx</address>
+    <areaOfCarsLocation>350</areaOfCarsLocation>
+    <code>123B</code>
+  </vehicleFleet>
+  <vehicleFleet>
+    <name>Big Feet</name>
+    <address>xxx</address>
+    <areaOfCarsLocation>500</areaOfCarsLocation>
+    <code>123C</code>
+  </vehicleFleet>
+  <vehicleFleet>
+    <name>Super big Feet</name>
+    <address>xxx</address>
+    <areaOfCarsLocation>700</areaOfCarsLocation>
+    <code>123D</code>
+  </vehicleFleet>
+</vehicleFleets>

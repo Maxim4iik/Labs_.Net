@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<trucks>
+  <truck>
+    <carBrand>Volkswagen</carBrand>
+    <loadCapacity>1</loadCapacity>
+    <dateOfIssue>4/15/2013 12:00:00 AM</dateOfIssue>
+    <dateOfOverhaul>6/10/2014 12:00:00 AM</dateOfOverhaul>
+    <stateNumber>AI4781ХР</stateNumber>
+    <vehicleFleetCode>123B</vehicleFleetCode>
+  </truck>
+  <truck>
+    <carBrand>Volvo</carBrand>
+    <loadCapacity>5</loadCapacity>
+    <dateOfIssue>2/21/2015 12:00:00 AM</dateOfIssue>
+    <dateOfOverhaul>11/17/2015 12:00:00 AM</dateOfOverhaul>
+    <stateNumber>AA2864КМ</stateNumber>
+    <vehicleFleetCode>123C</vehicleFleetCode>
+  </truck>
+  <truck>
+    <carBrand>Scania</carBrand>
+    <loadCapacity>3</loadCapacity>
+    <dateOfIssue>6/13/2010 12:00:00 AM</dateOfIssue>
+    <dateOfOverhaul>4/1/2012 12:00:00 AM</dateOfOverhaul>
+    <stateNumber>AA5687AB</stateNumber>
+    <vehicleFleetCode>123B</vehicleFleetCode>
+  </truck>
+  <truck>
+    <carBrand>Mercedes-Benz</carBrand>
+    <loadCapacity>7</loadCapacity>
+    <dateOfIssue>7/4/2013 12:00:00 AM</dateOfIssue>
+    <dateOfOverhaul>7/12/2014 12:00:00 AM</dateOfOverhaul>
+    <stateNumber>AA6577HP</stateNumber>
+    <vehicleFleetCode>123D</vehicleFleetCode>
+  </truck>
+  <truck>
+    <carBrand>MAZ</carBrand>
+    <loadCapacity>10</loadCapacity>
+    <dateOfIssue>3/26/2014 12:00:00 AM</dateOfIssue>
+    <dateOfOverhaul>9/15/2015 12:00:00 AM</dateOfOverhaul>
+    <stateNumber>KA5894KA</stateNumber>
+    <vehicleFleetCode>123D</vehicleFleetCode>
+  </truck>
+</trucks>

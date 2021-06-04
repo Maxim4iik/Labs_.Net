@@ -1,0 +1,26 @@
+C:/Users/matil/source/repos/Laba4/Laba4/bin/Debug/netcoreapp3.1/Laba4.exe
+C:/Users/matil/source/repos/Laba4/Laba4/bin/Debug/netcoreapp3.1/Laba4.deps.json
+C:/Users/matil/source/repos/Laba4/Laba4/bin/Debug/netcoreapp3.1/Laba4.runtimeconfig.json
+C:/Users/matil/source/repos/Laba4/Laba4/bin/Debug/netcoreapp3.1/Laba4.runtimeconfig.dev.json
+C:/Users/matil/source/repos/Laba4/Laba4/bin/Debug/netcoreapp3.1/Laba4.dll
+C:/Users/matil/source/repos/Laba4/Laba4/bin/Debug/netcoreapp3.1/Laba4.pdb
+C:/Users/matil/source/repos/Laba4/Laba4/obj/Debug/netcoreapp3.1/Laba4.csprojAssemblyReference.cache
+C:/Users/matil/source/repos/Laba4/Laba4/obj/Debug/netcoreapp3.1/Laba4.AssemblyInfoInputs.cache
+C:/Users/matil/source/repos/Laba4/Laba4/obj/Debug/netcoreapp3.1/Laba4.AssemblyInfo.cs
+C:/Users/matil/source/repos/Laba4/Laba4/obj/Debug/netcoreapp3.1/Laba4.csproj.CoreCompileInputs.cache
+C:/Users/matil/source/repos/Laba4/Laba4/obj/Debug/netcoreapp3.1/Laba4.dll
+C:/Users/matil/source/repos/Laba4/Laba4/obj/Debug/netcoreapp3.1/Laba4.pdb
+C:/Users/matil/source/repos/Laba4/Laba4/obj/Debug/netcoreapp3.1/Laba4.genruntimeconfig.cache
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab4/Laba4/Laba4/bin/Debug/netcoreapp3.1/Laba4.deps.json
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab4/Laba4/Laba4/bin/Debug/netcoreapp3.1/Laba4.runtimeconfig.json
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab4/Laba4/Laba4/bin/Debug/netcoreapp3.1/Laba4.runtimeconfig.dev.json
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab4/Laba4/Laba4/bin/Debug/netcoreapp3.1/Laba4.dll
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab4/Laba4/Laba4/bin/Debug/netcoreapp3.1/Laba4.pdb
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab4/Laba4/Laba4/obj/Debug/netcoreapp3.1/Laba4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab4/Laba4/Laba4/obj/Debug/netcoreapp3.1/Laba4.AssemblyInfoInputs.cache
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab4/Laba4/Laba4/obj/Debug/netcoreapp3.1/Laba4.AssemblyInfo.cs
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab4/Laba4/Laba4/obj/Debug/netcoreapp3.1/Laba4.csproj.CoreCompileInputs.cache
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab4/Laba4/Laba4/obj/Debug/netcoreapp3.1/Laba4.dll
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab4/Laba4/Laba4/obj/Debug/netcoreapp3.1/Laba4.pdb
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab4/Laba4/Laba4/obj/Debug/netcoreapp3.1/Laba4.genruntimeconfig.cache
+/Users/maksymtrokhymets/Desktop/University/2 Year/2_Семестр/Net/Lab4/Laba4/Laba4/obj/Debug/netcoreapp3.1/Laba4.csprojAssemblyReference.cache
